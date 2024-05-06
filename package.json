@@ -42,7 +42,7 @@
   "dependencies": {
     "@types/shopify-buy": "2.17.4",
     "isomorphic-unfetch": "4.0.2",
-    "shopify-buy": "2.21.1"
+    "shopify-buy": "2.22.0"
   },
   "devDependencies": {
     "@babel/preset-env": "7.24.4",
